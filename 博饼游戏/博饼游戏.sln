@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "博饼游戏", "博饼游戏.csproj", "{0940EEDF-DF14-4C3A-8AD5-6B92071F772F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0940EEDF-DF14-4C3A-8AD5-6B92071F772F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0940EEDF-DF14-4C3A-8AD5-6B92071F772F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0940EEDF-DF14-4C3A-8AD5-6B92071F772F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0940EEDF-DF14-4C3A-8AD5-6B92071F772F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41A8B942-C5BB-43D5-82DA-490E08442779}
+	EndGlobalSection
+EndGlobal

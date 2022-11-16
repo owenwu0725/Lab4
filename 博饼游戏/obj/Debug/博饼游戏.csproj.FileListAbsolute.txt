@@ -1,0 +1,13 @@
+E:\博饼游戏\obj\Debug\博饼游戏.csproj.AssemblyReference.cache
+E:\博饼游戏\obj\Debug\博饼游戏.csproj.SuggestedBindingRedirects.cache
+E:\博饼游戏\obj\Debug\博饼游戏.Properties.Resources.resources
+E:\博饼游戏\obj\Debug\博饼游戏.csproj.GenerateResource.cache
+E:\博饼游戏\obj\Debug\博饼游戏.csproj.CoreCompileInputs.cache
+E:\博饼游戏\bin\Debug\博饼游戏.exe.config
+E:\博饼游戏\bin\Debug\博饼游戏.exe
+E:\博饼游戏\bin\Debug\博饼游戏.pdb
+E:\博饼游戏\obj\Debug\博饼游戏.exe
+E:\博饼游戏\obj\Debug\博饼游戏.pdb
+E:\博饼游戏\obj\Debug\博饼游戏.GAME.resources
+E:\博饼游戏\obj\Debug\博饼游戏.Form1.resources
+E:\博饼游戏\obj\Debug\博饼游戏.RULE.resources
